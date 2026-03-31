@@ -1,4 +1,4 @@
-# OutcomeForge: Advanced Prediction Market Protocol on Aptos
+## OutcomeForge: Advanced Prediction Market Protocol on Aptos
 
 **OutcomeForge** implements Paradigm’s **Prediction Market Automated Market Maker (PM‑AMM)** on the Aptos blockchain. It translates rigorous financial theory into modular Move smart contracts, leveraging the Aptos Fungible Asset framework to deliver a capital‑efficient, mathematically precise, and decentralized prediction market protocol.
 
